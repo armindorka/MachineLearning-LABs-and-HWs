@@ -1,7 +1,7 @@
 # MachineLearning-LABs-and-HWs
 This includes all my HWs related to the Machine Learning course at my home university.
 
-Lab 1: Matrix Profile & Time-Series Anomaly Detection
+### Lab 1: Matrix Profile & Time-Series Anomaly Detection
 
 Covers:
 
@@ -18,7 +18,7 @@ Detecting discords (anomalous subsequences)
 Main idea: Find unusual patterns in a time series by comparing every subsequence to every other subsequence.
 
 
-Lab 2: Elastic Distance Measures (DTW, WDTW)
+### Lab 2: Elastic Distance Measures (DTW, WDTW)
 
 Covers:
 
@@ -33,7 +33,7 @@ Generic cost-function-based DP implementation
 Main idea: Measure similarity when sequences may stretch/shift in time (common in real motion/sensor data).
 
 
-Lab 3: Time-Series Forecasting With Machine Learning
+### Lab 3: Time-Series Forecasting With Machine Learning
 
 Covers:
 
@@ -48,7 +48,7 @@ Iterative multi-step forecasting (rolling predictions)
 Main idea: Reframe time-series prediction as a supervised ML problem.
 
 
-Lab 4: Feature Engineering / Classification
+### Lab 4: Feature Engineering / Classification
 
 Since not shown, but typically next step in such a course:
 Covers:
@@ -62,7 +62,7 @@ Using DTW or statistical features to classify sequences
 Main idea: Identify what pattern a given time series belongs to.
 
 
-Lab 5: Model Evaluation & Real-World Application
+### Lab 5: Model Evaluation & Real-World Application
 
 Based on progression:
 Covers:
