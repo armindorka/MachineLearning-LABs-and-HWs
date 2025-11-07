@@ -17,6 +17,7 @@ Detecting discords (anomalous subsequences)
 
 Main idea: Find unusual patterns in a time series by comparing every subsequence to every other subsequence.
 
+
 Lab 2: Elastic Distance Measures (DTW, WDTW)
 
 Covers:
@@ -30,6 +31,7 @@ Weighted DTW (warping penalty based on alignment distance)
 Generic cost-function-based DP implementation
 
 Main idea: Measure similarity when sequences may stretch/shift in time (common in real motion/sensor data).
+
 
 Lab 3: Time-Series Forecasting With Machine Learning
 
@@ -45,6 +47,7 @@ Iterative multi-step forecasting (rolling predictions)
 
 Main idea: Reframe time-series prediction as a supervised ML problem.
 
+
 Lab 4: Feature Engineering / Classification
 
 Since not shown, but typically next step in such a course:
@@ -57,6 +60,7 @@ Feature extraction or shape-based distances
 Using DTW or statistical features to classify sequences
 
 Main idea: Identify what pattern a given time series belongs to.
+
 
 Lab 5: Model Evaluation & Real-World Application
 
